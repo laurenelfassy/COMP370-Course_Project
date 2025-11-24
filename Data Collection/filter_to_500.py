@@ -1,7 +1,7 @@
 import json
 import random
 
-INPUT_FILE = "filtered_four_movies.json"
+INPUT_FILE = "../Data - Larger Sample/filtered_four_movies_VALID.json"
 
 OUT_500 = "sample_500.json"
 OUT_200 = "open_coding_200.json"

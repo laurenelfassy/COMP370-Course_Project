@@ -6,7 +6,7 @@ from pathlib import Path
 # CONFIG
 # -------------------------------
 MOVIES = {
-    "barbie": ["barbie", "greta gerwig", "margot robbie", "gosling"],
+    "barbie": ["barbie", "greta gerwig", "margot robbie", "gosling", "barbenheimer"],
     "oppenheimer": ["oppenheimer", "nolan", "cillian", "oppen"],
     "mission_impossible": ["mission impossible", "mi7", "dead reckoning", "ethan hunt", "tom cruise"],
     "tmnt": ["tmnt", "mutant mayhem", "ninja turtles", "donatello", "raphael", "michelangelo"]
